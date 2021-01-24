@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="alert_message">App needs an active internet connection!</string>
+</resources>
